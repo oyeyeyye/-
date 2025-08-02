@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.0",
   "updateNotes": "1. 修复了自动点击偶尔失效的问题\n2. 新增了脚本导入导出功能\n3. 优化了界面响应速度",
   "downloadUrl": "https://wwuh.lanzout.com/iYUfq32dudxa",
   "releaseDate": "2025-08-15"
